@@ -1,4 +1,9 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abhinay-Sikarwar.Abhinay-Sikarwar&style=flat-square&left_color=ff2d95&right_color=1a1a1a&text_color=ffffff" />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Abhinay-Sikarwar&style=for-the-badge&color=ff2d95&labelColor=ff69b4" alt="Visitors" />
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-Apache%202.0-ff2d95?style=for-the-badge&logoColor=ffffff&labelColor=ff69b4" alt="License" />
+  </a>
+</div>
 
 <h1 align="center">
   <img
